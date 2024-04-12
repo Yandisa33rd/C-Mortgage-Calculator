@@ -1,0 +1,7 @@
+C:\Users\ymdod\OneDrive\Documents\Software Development\C#\C# Formative\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.exe.config
+C:\Users\ymdod\OneDrive\Documents\Software Development\C#\C# Formative\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.exe
+C:\Users\ymdod\OneDrive\Documents\Software Development\C#\C# Formative\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.pdb
+C:\Users\ymdod\OneDrive\Documents\Software Development\C#\C# Formative\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.csproj.AssemblyReference.cache
+C:\Users\ymdod\OneDrive\Documents\Software Development\C#\C# Formative\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ymdod\OneDrive\Documents\Software Development\C#\C# Formative\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.exe
+C:\Users\ymdod\OneDrive\Documents\Software Development\C#\C# Formative\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.pdb
